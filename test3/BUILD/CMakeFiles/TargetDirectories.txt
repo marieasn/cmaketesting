@@ -1,0 +1,4 @@
+/home/angen/work/2024.06.21.cmaketesting/test3/BUILD/CMakeFiles/rebuild_cache.dir
+/home/angen/work/2024.06.21.cmaketesting/test3/BUILD/CMakeFiles/edit_cache.dir
+/home/angen/work/2024.06.21.cmaketesting/test3/BUILD/CMakeFiles/helloworld.dir
+/home/angen/work/2024.06.21.cmaketesting/test3/BUILD/CMakeFiles/printmsg.dir
