@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.0)
 # Project name and language
 project(HelloWorld CXX)
 
-# Add an executable target
+# Add an executable target 
 add_library(printmsg libprint/printmsg.cpp)
 add_executable(helloworld helloworld.cpp)
 
